@@ -1,0 +1,9 @@
+Crea un nuevo repositorio de práctica donde realices lo siguiente (ejercicio personal):
+• Inicializar el repositorio
+• Asociar el repositorio local a repositorio remoto
+• Agrega código o contenido a tu proyecto de ejemplo
+• Genera commits
+• Envía cambios al reposotorio remoto
+• Crea una nueva rama
+• Genera nuevos cambios y envíalos al repositorio
+• Muestra la evidencia de los cambios subidos al repositorio
